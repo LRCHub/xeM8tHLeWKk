@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘイヴン",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2026-02-15T04:59:07.072525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘイヴン (feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & 鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_ヘイヴン_(feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_鏡音レン)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
